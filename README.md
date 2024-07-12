@@ -1,3 +1,3 @@
-# LearningGit2RemoteRepo
+# LearningGit3RemoteRepo
 
-This is the additional text that goes in the following line.
+This is the 3rd repo created in the course of learning Git. More specifically for testing merge conflict and resolving them. One remote repo created on GitHub, two local repos created on PC, linked the two local repos to the single remote repo on GitHub... testing begin... making changes to the same line of code... 
